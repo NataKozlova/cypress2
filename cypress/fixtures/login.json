@@ -1,0 +1,10 @@
+{
+    "happy": {
+      "username": "qamid@qamid.ru",
+      "password": "qamid"
+    },
+    "sad": {
+      "username": "qamid@qamid.ru",
+      "password": "notcorrect"
+    }
+}

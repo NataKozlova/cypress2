@@ -1,0 +1,18 @@
+{
+    "main": {
+      "headerTitle": ".page-header__title",
+      "headerSubtitle": ".page-header__subtitle",
+      "panel": "Идёмвкино",
+      "nav": ".page-nav__day"
+    },
+    "login": {
+      "host": "https://qamid.tmweb.ru/admin/",
+      "userInput": "input[name=email]",
+      "passInput": "input[name=password]",
+      "submitButton": "form",
+      "successPanel": "Администраторррская",
+      "error": "Ошибка авторизации!"
+    },
+    "beVisible": "be.visible",
+    "haveLength": "have.length"
+}
