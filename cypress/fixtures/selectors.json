@@ -11,8 +11,10 @@
       "passInput": "input[name=password]",
       "submitButton": "form",
       "successPanel": "Администраторррская",
-      "error": "Ошибка авторизации!"
+      "error": "Ошибка авторизации!",
+      "movieTitle": ".conf-step__movie-title"
     },
     "beVisible": "be.visible",
-    "haveLength": "have.length"
+    "haveLength": "have.length",
+    "text": "text"
 }
